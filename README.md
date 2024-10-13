@@ -13,8 +13,8 @@ My data science and analytics projects
 
 
 ### contact me
-name : Pattarakorn  
-email : ptussanapirom@gmail.com
+ name : Pattarakorn  
+ email : ptussanapirom@gmail.com
 
 ## image
 
