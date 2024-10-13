@@ -2,10 +2,11 @@
 My data science and analytics projects
 
 ## personal projects
- - SQL supermarket analysist
- - SQL analysist
- - R programming (Pao-Ying-Chub Games)
- - Looker Dashboard
- - Linear Regression model using caret
- - KNN model
- - K-Fold
+ 1. GG sheet
+ 2. SQL supermarket analysist
+ 3. SQL analysist
+ 4. R programming (Pao-Ying-Chub Games)
+ 5. Looker Dashboard
+ 6. Linear Regression model using caret
+ 7. KNN model
+ 8. K-Fold
