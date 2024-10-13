@@ -10,3 +10,12 @@ My data science and analytics projects
  6. Linear Regression model using caret
  7. KNN model
  8. K-Fold
+
+
+### contact me
+name : Pattarakorn
+email : ptussanapirom@gmail.com
+
+## image
+
+
