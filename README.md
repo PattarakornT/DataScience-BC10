@@ -13,9 +13,11 @@ My data science and analytics projects
 
 
 ### contact me
-- name : Pattarakorn
-- email : ptussanapirom@gmail.com
+Name : Pattarakorn  
+  Email : ptussanapirom@gmail.com
 
 ## image
+
+![corgi](https://nationaltoday.com/wp-content/uploads/2022/08/18-National-Welsh-Corgi-Day.jpg)
 
 
